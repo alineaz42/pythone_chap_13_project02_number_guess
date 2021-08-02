@@ -1,3 +1,4 @@
+# ******************go to score board and set it to 100 first******************
 # number guessing game
 # project two
 # from Code With Harry
